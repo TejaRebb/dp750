@@ -1,4 +1,4 @@
-# DP-750 Cram — 3 hours
+# DP-750 Cram — 3.5 hours
 
 ## How to use (per module, ~35 min)
 1. **First pass — Q&A** `01-qa.md` (12 min): What is it / how used / pros / cons / when to use / when not / exam traps.
@@ -14,6 +14,7 @@
 | 1:20–1:55 | 3. Unity Catalog & Governance | `m3-unity-catalog/` | __/15 |
 | 1:55–2:30 | 4. Structured Streaming & Optimization | `m4-streaming-perf/` | __/15 |
 | 2:30–2:55 | 5. DABs & Workflows | `m5-dabs-workflows/` | __/15 |
-| 2:55–3:00 | Re-take the quiz of your lowest module | | |
+| 2:55–3:25 | 6. Gap-fillers (Key Vault, Azure Monitor, PIVOT/set ops, testing/Git, Genie, Event Hubs, ADF, compute setup, modeling) | `m6-gaps/` | __/15 |
+| 3:25–3:30 | Re-take the quiz of your lowest module | | |
 
 Rule: score <10/15 → reread the notes sections the quiz footer names before moving on.
