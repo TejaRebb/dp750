@@ -1,9 +1,9 @@
 # DP-750 Cram — 3 hours
 
 ## How to use (per module, ~35 min)
-1. **Read** `01-notes.md` (10 min) — skim tables + "Top exam traps".
-2. **First pass** `02-exercises.md` (15 min) — fill blanks, use hints, then open Solution.
-3. **Second pass** `03-quiz.md` (10 min) — answer all 15 before opening any answer. Log score below.
+1. **First pass — Q&A** `01-qa.md` (12 min): What is it / how used / pros / cons / when to use / when not / exam traps.
+2. **Second pass — Exercises** `02-exercises.md` (13 min): fill the blanks, use the hints, then open the Solution.
+3. **Final check — Quiz** `03-quiz.md` (10 min): answer all 15 before opening any answer. Log your score below.
 
 ## Schedule
 | Time | Module | Folder | Quiz score |
